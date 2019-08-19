@@ -3,9 +3,9 @@
 #include<process.h>
 int top=-1;
 int a[30];
-void push(int[],int);
-void pop(int[]);
-void display(int[]);
+void push(int);
+void pop();
+void display();
 
 void push(int b)
 {
